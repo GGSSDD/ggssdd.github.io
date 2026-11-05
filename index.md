@@ -1,4 +1,4 @@
-# Home Assistant Backup
+# Cloud Backup
 
   A Home Assistant add-on that copies your Home Assistant backups to your own cloud storage, such as Google Drive.
 
