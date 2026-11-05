@@ -1,6 +1,6 @@
 # Privacy policy
 
-  Home Assistant Backup runs on your own Home Assistant.
+  Cloud Backup runs on your own Home Assistant.
 
   - It keeps copies of your Home Assistant backups in your own Google Drive, and can read or delete them there.
   - It can only see files it created itself.
